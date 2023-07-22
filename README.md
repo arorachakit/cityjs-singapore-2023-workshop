@@ -8,7 +8,7 @@ To use this project you have to have a Storyblok account. If you don't have one 
 ### Find the slides [here](https://docs.google.com/presentation/d/1UATi12wdWPyv65ZRZ8-nFv4sww1_J2wUs8Q9co3PKdw/edit?usp=sharing)
 ### Find the notion page [here](https://storyblok.notion.site/CityJS-Singapore-Go-Headless-with-Next-js-13-and-Storyblok-02772a0023ca4328b513c7e943216b3d)
 
-## Deployed URL - https://cityjs-singapore-2023-workshop.vercel.app/
+### Deployed URL - https://cityjs-singapore-2023-workshop.vercel.app/
 
 
 ## How to get started?
